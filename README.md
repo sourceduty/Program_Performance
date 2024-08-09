@@ -14,6 +14,8 @@ Based on the data collected from these analyses, this GPT offers tailored recomm
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Programming Diagnostics](https://github.com/sourceduty/Programming_Diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
